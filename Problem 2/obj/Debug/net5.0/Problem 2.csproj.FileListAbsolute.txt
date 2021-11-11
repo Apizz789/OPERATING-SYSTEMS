@@ -1,0 +1,16 @@
+P:\GIT\OPERATING-SYSTEMS\Problem 2\bin\Debug\net5.0\Problem 2.exe
+P:\GIT\OPERATING-SYSTEMS\Problem 2\bin\Debug\net5.0\Problem 2.deps.json
+P:\GIT\OPERATING-SYSTEMS\Problem 2\bin\Debug\net5.0\Problem 2.runtimeconfig.json
+P:\GIT\OPERATING-SYSTEMS\Problem 2\bin\Debug\net5.0\Problem 2.runtimeconfig.dev.json
+P:\GIT\OPERATING-SYSTEMS\Problem 2\bin\Debug\net5.0\Problem 2.dll
+P:\GIT\OPERATING-SYSTEMS\Problem 2\bin\Debug\net5.0\ref\Problem 2.dll
+P:\GIT\OPERATING-SYSTEMS\Problem 2\bin\Debug\net5.0\Problem 2.pdb
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.csproj.AssemblyReference.cache
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.GeneratedMSBuildEditorConfig.editorconfig
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.AssemblyInfoInputs.cache
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.AssemblyInfo.cs
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.csproj.CoreCompileInputs.cache
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.dll
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\ref\Problem 2.dll
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.pdb
+P:\GIT\OPERATING-SYSTEMS\Problem 2\obj\Debug\net5.0\Problem 2.genruntimeconfig.cache
