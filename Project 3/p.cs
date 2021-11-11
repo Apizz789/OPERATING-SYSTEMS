@@ -23,8 +23,6 @@ namespace OS_Problem_02
         static int DeQueue()
         {
             int x = 0;
-
-
                 x = TSBuffer[Front];
                 Front++;
                 Front %= 10;
@@ -37,7 +35,6 @@ namespace OS_Problem_02
         static void th01()
         {
             int i;
-
             for (i = 1; i < 51; i++)
             {
                 if (Count == 10)
@@ -50,14 +47,12 @@ namespace OS_Problem_02
                 Thread.Sleep(5);
             }
         }
-
         static void th011()
         {
             int i;
 
             for (i = 100; i < 151; i++)
             {
-               
                 EnQueue(i);
                 Thread.Sleep(5);
             }

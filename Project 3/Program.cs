@@ -17,7 +17,6 @@ namespace OS_Problem_02
             Back %= 10;
             Count += 1;
         }
-
         static int DeQueue()
         {
             int x = 0;
@@ -42,14 +41,12 @@ namespace OS_Problem_02
         static void th011()
         {
             int i;
-
             for (i = 100; i < 151; i++)
             {
                 EnQueue(i);
                 Thread.Sleep(5);
             }
         }
-
 
         static void th02(object t)
         {
